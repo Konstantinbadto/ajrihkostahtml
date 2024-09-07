@@ -14,3 +14,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Konstantinbadtom&style=flat-square&color=blue" alt=""/>
+<h1>
+ Всем доброго времени суток
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
