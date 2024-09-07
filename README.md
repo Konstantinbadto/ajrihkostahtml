@@ -4,7 +4,7 @@
 </div>
 <div id="badges">
   <a href="https://discord.com/badtom2">
-    <img src="https://img.shields.io/badge/Discord-purpule?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://vk.com/id479778845">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
