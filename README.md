@@ -24,11 +24,7 @@
 ### :man_technologist: Обо мне :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
- 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
- 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web application
 - :seedling: Exploring Technical Content Writing
-- 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
-- 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I trained myself in coding and read tech articles
+- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BADTOM)
