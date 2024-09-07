@@ -28,3 +28,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing
 - :zap: In my free time, I trained myself in coding and read tech articles
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BADTOM)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://frankfurt.apollo.olxcdn.com/v1/files/2j2olrmcw37i2-KZ/image;s=1000x700" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=fe33010a012bcace915b74ad668f7024_l-8000733-images-thumbs&n=13" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=e25215518d3e0e24fb8b9ba34d8385b275689e57-12480075-images-thumbs&n=13" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://i.pinimg.com/736x/7c/4e/2f/7c4e2fc2796aa54f0046c72154c3e24b.jpg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
