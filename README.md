@@ -18,3 +18,6 @@
  Всем доброго времени суток
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/410907/screenshots/2044702/media/75c2a89aea2d580d75e4e85956369929.gif" width="600" height="300"/>
+</div>
